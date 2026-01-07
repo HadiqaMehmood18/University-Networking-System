@@ -14,6 +14,9 @@ The **University Networking System** simulates a robust network infrastructure c
 - **Branch Campus:** Staff & Student Divisions
 - **IT Department:** Centralized servers and printers
 
+<img width="962" height="454" alt="image" src="https://github.com/user-attachments/assets/de190b6e-87fe-462a-9bfa-28a6a61831a2" />
+
+
 ### Network Topology Components
 - **Routers:** 4 routers (2621XM and 2811XM series) with dynamic routing
 - **Switches:** Multiple Cisco 2960 switches with VLAN configuration
